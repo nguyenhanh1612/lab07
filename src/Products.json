@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "name": "Yosamy Dance Talking Cactus Toy Singing Dancing Mimicking Toy for Babies",
+    "price": 16,
+    "description": "Dance Talking Cactus Toy Singing Dancing Mimicking Toy for Babies",
+    "rating": 4,
+    "category": "Toys and Games",
+    "bestseller": true,
+    "image": "https://m.media-amazon.com/images/I/51+1PmV8oCL._AC_SX569_.jpg"
+  },
+  {
+    "id": "2",
+    "name": "AUPHIL Cute Girl Unicorn Figure Plush Toy",
+    "price": 32,
+    "description": "Soft Stuffed Toy Gift for Little Girls, Baby, Toddlers and pre-School Kids",
+    "rating": 5,
+    "category": "Toys and Games",
+    "bestseller": true,
+    "image": "https://m.media-amazon.com/images/I/61tsQNvH-CL._AC_SX569_.jpg"
+  },
+  {
+    "id": "3",
+    "name": "Apple AirPods with Charging Case (Previous Model)",
+    "price": 99,
+    "description": "Amazingly easy to use, Air Pods combine intelligent design with breakthrough technology and crystal clear sound. Get up to 5 hours of listening time on one charge. Or up to 3 hours with just a 15-minute charge in the charging case.",
+    "rating": 5,
+    "category": "Headphones",
+    "bestseller": false,
+    "image": "https://m.media-amazon.com/images/I/41Kz9H3v0yL._AC_SY445_.jpg"
+  },
+  {
+    "id": "4",
+    "name": "Barbie Toy Boat with Pet Puppy, Life Vest and Beverage Accessories, Fits 3 Dolls and Floats in Water",
+    "price": 22,
+    "description": "Park the boat to lounge on the stern with plug-and-play cupholders and beverage accessories! Perfect for bath time and water play, this Barbie boat makes a great gift for 3 year olds and up. Kids can collect Barbie dolls and accessories to pack the boat full of fun!",
+    "rating": 5,
+    "category": "Toys and Games",
+    "bestseller": true,
+    "image": "https://m.media-amazon.com/images/I/61ysEjw8BML._AC_SX679_.jpg"
+  },
+  {
+    "id": "5",
+    "name": "Sony MDR7506 Professional Large Diaphragm Headphone",
+    "price": 80,
+    "description": "Neodymium magnets and 40 millimeter drivers for powerful, detailed sound. Closed ear design provides comfort and outstanding reduction of external noises. 9.8 foot cord ends in gold plated plug and it is not detachable; 1/4 inch adapter included. Folds up for storage or travel in provided soft case. Frequency Response: 10 Hertz to 20 kilohertz. These large diaphragm, foldable headphones feature a rugged construction, a secure, highly effective closed ear design. Connectivity technology : Wired",
+    "rating": 4,
+    "category": "Headphones",
+    "bestseller": false,
+    "image": "https://m.media-amazon.com/images/I/81TzTAx8weL._AC_SX569_.jpg"
+  },
+  {
+    "id": "6",
+    "name": "PopSockets Clear Phone Grip",
+    "price": 9,
+    "description": "Our durable translucent PopSocket compatible with iPhone, Samsung and any other devices, we call a “PopGrip” is anti-drop, allows for one-handed use of your device, and the ability to prop up your phone wherever you go. A little life-changer people like to call, a cell phone holder, phone gripper for back of phone, phone holder for hand, or whichever you name you decide",
+    "rating": 3,
+    "category": "Accessories",
+    "bestseller": true,
+    "image": "https://m.media-amazon.com/images/I/61y9fC2tzgL._AC_SX679_.jpg"
+  },
+  {
+    "id": "7",
+    "name": "Protection, Lightweight Water Resistant Face & Body Sunscreen, Non-Greasy, Travel Size, 3 fl. oz",
+    "price": 29,
+    "description": "This lightweight & sheer sunscreen is fast-absorbing with Dry-Touch technology for a non-greasy, matte finish and is formulated with Helioplex for superior sun protection for your skin. Packaging and formulation may vary. New formula features an oxybenzone-free formula, this sunscreen lotion helps prevent sunburn and when used as directed, may help decrease the risk of skin cancer",
+    "rating": 4,
+    "bestseller": true,
+    "image": "https://m.media-amazon.com/images/I/71UH7m3ORSL._SX425_.jpg",
+    "category": "Beauty & Personal Care"
+  },
+  {
+    "id": "8",
+    "name": "Certified International Winter's Medley 16 pc Dinnerware Set, Service for 4, Multicolor",
+    "price": 89,
+    "description": "Made From Durable Earthenware.Perfect for Holiday Dining and Entertaining; Corrdinating Servware & 3-D Accessories Available",
+    "rating": 3,
+    "category": "Accessories",
+    "bestseller": true,
+    "image": "https://m.media-amazon.com/images/I/71uBYOkHoiL._AC_SX522_.jpg"
+  },
+  {
+    "id": "9",
+    "name": "Daily Ritual Women's Jersey Standard-Fit V-Neck Scoopback Tank Top",
+    "price": 16,
+    "description": "Made with an Ecovero Viscose blend. Ecovero Viscose is made from renewable wood sources and contains a unique identification marker that ensures traceability and trust at all stages of production, from fiber to fabric.",
+    "rating": 4,
+    "category": "Fashion",
+    "bestseller": false,
+    "image": "https://m.media-amazon.com/images/I/71kUvnj6TUL._AC_UL320_.jpg"
+  },
+  {
+    "id": "10",
+    "name": "Amazon Basics In-Ear Wired Headphones, Earbuds with Microphone, Black",
+    "price": 9,
+    "description": "Note : If the size of the earbud tips does not match the size of your ear canals or the headset is not worn properly in your ears, you may not obtain the correct sound qualities or call performance. Change the earbud tips to ones that fit more snugly in your ear. Black headphones with comfortable in-ear design and 3.5mm gold-plated plug. Built-in microphone with controller (answer or hang up calls; pause or skip tracks)",
+    "rating": 4,
+    "category": "Headphones",
+    "bestseller": true,
+    "image": "https://m.media-amazon.com/images/I/51xZdrJfCzL._AC_SY879_.jpg"
+  }
+]
